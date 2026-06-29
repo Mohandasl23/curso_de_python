@@ -1,0 +1,11 @@
+print("Eu amo Deus")
+print("Eu amo Jesus")
+print("Eu amo Espírito Santo")
+print("Eu amo a minha família")
+print("Eu amo meus amigos")
+print("Eu amo minha casa")
+print("Eu amo minha cidade")
+print("Eu amo meu país")
+print("Eu amo o mundo")
+print("Eu amo a vida")
+
