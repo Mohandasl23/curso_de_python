@@ -1,4 +1,4 @@
-tupla = (0,1,3, 3, 5, 7, 7,7)
+tupla = (0,1, 3, 3, 5, 7, 7,7)
 
 print("Tupla original:", tupla)
 
